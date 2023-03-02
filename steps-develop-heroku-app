@@ -1,0 +1,19 @@
+Steps to implement Heroku
+
+1. Create a Heroku account
+2. Install Heroku CLI
+
+-------------------------
+3. Create a Heroku app
+4. Login to Heroku on the CLI
+5. Deploy your app to Heroku
+
+- Correcting the Port
+- Procfile (which is a text file that tells Heroku how to run your app)
+- Pushing to Heroku 
+- Heroku Resources (Heroku Postgres, ClearDB MySQL, Redis Cloud, etc.)
+
+Connecting to Heroku ClearDB MySQL
+
+6. View your app in the browser
+
